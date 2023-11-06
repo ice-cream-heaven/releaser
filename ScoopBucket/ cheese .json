@@ -6,14 +6,14 @@
             "bin": [
                 "cheese-cli.exe"
             ],
-            "hash": "5e7a938db02027f23348899f89f8b80e12a4cde654ba9a0bac1430cad02d542c"
+            "hash": "22872b4ea009b099bddbd6aa3151e2e86f1073547b8357e327f36817090abbc9"
         },
         "arm64": {
             "url": "https://github.com/ice-cream-heaven/releaser/releases/download/v0.0.1/cheese_0.0.1_windows_arm64.zip",
             "bin": [
                 "cheese-cli.exe"
             ],
-            "hash": "954127e2e61fb56e30a2e48a9a4ed525ef35a96aa719e6296f9ee8837c1363ef"
+            "hash": "0a7dc41e5a3c0bd65eeb5ec3fe12d4f2ae89458ba14b4bf4c38b03286dc8decd"
         }
     },
     "license": "AGPL-3.0",
