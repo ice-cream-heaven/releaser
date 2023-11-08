@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ice-cream-heaven/releaser/releases/download/v0.0.1/cheese_0.0.1_windows_amd64v3.zip",
+            "url": "https://github.com/ice-cream-heaven/releaser/releases/download/v0.0.2/cheese_0.0.2_windows_amd64v3.zip",
             "bin": [
                 "cheese-cli.exe"
             ],
-            "hash": "1115d8324768a6e80c36b63ae4b823bc8e03e8ff97c308418579be7f450f8651"
+            "hash": "79ac2d6d2f03eae66b7404ebf6d7c69ddf372a57da6156345e48c56c5af206ae"
         },
         "arm64": {
-            "url": "https://github.com/ice-cream-heaven/releaser/releases/download/v0.0.1/cheese_0.0.1_windows_arm64.zip",
+            "url": "https://github.com/ice-cream-heaven/releaser/releases/download/v0.0.2/cheese_0.0.2_windows_arm64.zip",
             "bin": [
                 "cheese-cli.exe"
             ],
-            "hash": "fa6d6309162e2e7a50e2c9a5334e9a14a5fc65afcbc4b9d91eb21a2695b28d21"
+            "hash": "2cfabac29503f6505fdcb971a79fdeec26ce6ede5999d7e7e2b431a983fc2f43"
         }
     },
     "license": "AGPL-3.0",
