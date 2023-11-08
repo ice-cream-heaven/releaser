@@ -2,6 +2,11 @@
 
 - Add Bucket
 ```bash
-scoop bucket add org xhttps://github.com/ice-cream-heaven/releaser
+scoop bucket add ice xhttps://github.com/ice-cream-heaven/releaser
 ```
 
+- Support Software
+  - cheese
+  	```bash
+		scoop install ice/cheese
+	```
